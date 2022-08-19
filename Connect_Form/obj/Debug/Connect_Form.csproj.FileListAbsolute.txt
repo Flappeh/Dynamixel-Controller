@@ -1,0 +1,63 @@
+D:\OneDrive - Institut Teknologi Sepuluh Nopember\Belajar\PRA TA\Riset\APP CM\Connect Form\Connect_Form\bin\Debug\Connect_Form.exe.config
+D:\OneDrive - Institut Teknologi Sepuluh Nopember\Belajar\PRA TA\Riset\APP CM\Connect Form\Connect_Form\bin\Debug\Connect_Form.exe
+D:\OneDrive - Institut Teknologi Sepuluh Nopember\Belajar\PRA TA\Riset\APP CM\Connect Form\Connect_Form\bin\Debug\Connect_Form.pdb
+D:\OneDrive - Institut Teknologi Sepuluh Nopember\Belajar\PRA TA\Riset\APP CM\Connect Form\Connect_Form\obj\Debug\Connect_Form.csproj.AssemblyReference.cache
+D:\OneDrive - Institut Teknologi Sepuluh Nopember\Belajar\PRA TA\Riset\APP CM\Connect Form\Connect_Form\obj\Debug\Connect_Form.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive - Institut Teknologi Sepuluh Nopember\Belajar\PRA TA\Riset\APP CM\Connect Form\Connect_Form\obj\Debug\Connect_Form.Connection.resources
+D:\OneDrive - Institut Teknologi Sepuluh Nopember\Belajar\PRA TA\Riset\APP CM\Connect Form\Connect_Form\obj\Debug\Connect_Form.Properties.Resources.resources
+D:\OneDrive - Institut Teknologi Sepuluh Nopember\Belajar\PRA TA\Riset\APP CM\Connect Form\Connect_Form\obj\Debug\Connect_Form.csproj.GenerateResource.cache
+D:\OneDrive - Institut Teknologi Sepuluh Nopember\Belajar\PRA TA\Riset\APP CM\Connect Form\Connect_Form\obj\Debug\Connect_Form.csproj.CoreCompileInputs.cache
+D:\OneDrive - Institut Teknologi Sepuluh Nopember\Belajar\PRA TA\Riset\APP CM\Connect Form\Connect_Form\obj\Debug\Connect_Form.exe
+D:\OneDrive - Institut Teknologi Sepuluh Nopember\Belajar\PRA TA\Riset\APP CM\Connect Form\Connect_Form\obj\Debug\Connect_Form.pdb
+D:\Belajar\Riset\APP CM\Connect Form\Connect_Form\bin\Debug\Connect_Form.exe.config
+D:\Belajar\Riset\APP CM\Connect Form\Connect_Form\bin\Debug\Connect_Form.exe
+D:\Belajar\Riset\APP CM\Connect Form\Connect_Form\bin\Debug\Connect_Form.pdb
+D:\Belajar\Riset\APP CM\Connect Form\Connect_Form\obj\Debug\Connect_Form.csproj.AssemblyReference.cache
+D:\Belajar\Riset\APP CM\Connect Form\Connect_Form\obj\Debug\Connect_Form.csproj.SuggestedBindingRedirects.cache
+D:\Belajar\Riset\APP CM\Connect Form\Connect_Form\obj\Debug\Connect_Form.Properties.Resources.resources
+D:\Belajar\Riset\APP CM\Connect Form\Connect_Form\obj\Debug\Connect_Form.csproj.GenerateResource.cache
+D:\Belajar\Riset\APP CM\Connect Form\Connect_Form\obj\Debug\Connect_Form.csproj.CoreCompileInputs.cache
+D:\Belajar\Riset\APP CM\Connect Form\Connect_Form\obj\Debug\Connect_Form.exe
+D:\Belajar\Riset\APP CM\Connect Form\Connect_Form\obj\Debug\Connect_Form.pdb
+D:\Belajar\Riset\APP CM\Connect Form\Connect_Form\bin\Debug\CircularProgressBar.dll
+D:\Belajar\Riset\APP CM\Connect Form\Connect_Form\bin\Debug\WinFormAnimation.dll
+D:\Belajar\Riset\APP CM\Connect Form\Connect_Form\bin\Debug\CircularProgressBar.xml
+D:\Belajar\Riset\APP CM\Connect Form\Connect_Form\obj\Debug\Connect_Form.csproj.CopyComplete
+D:\OneDrive_ITS\OneDrive - Institut Teknologi Sepuluh Nopember\Belajar\Riset\APP CM\Connect Form\Connect_Form\bin\Debug\Connect_Form.exe.config
+D:\OneDrive_ITS\OneDrive - Institut Teknologi Sepuluh Nopember\Belajar\Riset\APP CM\Connect Form\Connect_Form\bin\Debug\Connect_Form.exe
+D:\OneDrive_ITS\OneDrive - Institut Teknologi Sepuluh Nopember\Belajar\Riset\APP CM\Connect Form\Connect_Form\bin\Debug\Connect_Form.pdb
+D:\OneDrive_ITS\OneDrive - Institut Teknologi Sepuluh Nopember\Belajar\Riset\APP CM\Connect Form\Connect_Form\bin\Debug\CircularProgressBar.dll
+D:\OneDrive_ITS\OneDrive - Institut Teknologi Sepuluh Nopember\Belajar\Riset\APP CM\Connect Form\Connect_Form\bin\Debug\WinFormAnimation.dll
+D:\OneDrive_ITS\OneDrive - Institut Teknologi Sepuluh Nopember\Belajar\Riset\APP CM\Connect Form\Connect_Form\bin\Debug\CircularProgressBar.xml
+D:\OneDrive_ITS\OneDrive - Institut Teknologi Sepuluh Nopember\Belajar\Riset\APP CM\Connect Form\Connect_Form\obj\Debug\Connect_Form.csproj.AssemblyReference.cache
+D:\OneDrive_ITS\OneDrive - Institut Teknologi Sepuluh Nopember\Belajar\Riset\APP CM\Connect Form\Connect_Form\obj\Debug\Connect_Form.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive_ITS\OneDrive - Institut Teknologi Sepuluh Nopember\Belajar\Riset\APP CM\Connect Form\Connect_Form\obj\Debug\Connect_Form.App_Control.resources
+D:\OneDrive_ITS\OneDrive - Institut Teknologi Sepuluh Nopember\Belajar\Riset\APP CM\Connect Form\Connect_Form\obj\Debug\Connect_Form.Connection.resources
+D:\OneDrive_ITS\OneDrive - Institut Teknologi Sepuluh Nopember\Belajar\Riset\APP CM\Connect Form\Connect_Form\obj\Debug\Connect_Form.Properties.Resources.resources
+D:\OneDrive_ITS\OneDrive - Institut Teknologi Sepuluh Nopember\Belajar\Riset\APP CM\Connect Form\Connect_Form\obj\Debug\Connect_Form.csproj.GenerateResource.cache
+D:\OneDrive_ITS\OneDrive - Institut Teknologi Sepuluh Nopember\Belajar\Riset\APP CM\Connect Form\Connect_Form\obj\Debug\Connect_Form.csproj.CoreCompileInputs.cache
+D:\OneDrive_ITS\OneDrive - Institut Teknologi Sepuluh Nopember\Belajar\Riset\APP CM\Connect Form\Connect_Form\obj\Debug\Connect_Form.csproj.CopyComplete
+D:\OneDrive_ITS\OneDrive - Institut Teknologi Sepuluh Nopember\Belajar\Riset\APP CM\Connect Form\Connect_Form\obj\Debug\Connect_Form.exe
+D:\OneDrive_ITS\OneDrive - Institut Teknologi Sepuluh Nopember\Belajar\Riset\APP CM\Connect Form\Connect_Form\obj\Debug\Connect_Form.pdb
+D:\Belajar\Riset\APP CM\Connect Form\Connect_Form\obj\Debug\Connect_Form.Multiple_Servo.resources
+D:\Belajar\Riset\APP CM\Connect Form\Connect_Form\obj\Debug\Connect_Form.Connection.resources
+D:\Belajar\Riset\APP CM\Connect Form\Connect_Form\obj\Debug\Connect_Form.Analysis.resources
+D:\Belajar\Riset\APP CM\Connect Form\Connect_Form\obj\Debug\Connect_Form.Single_Servo.resources
+D:\Belajar\Riset\Riset\APP CM\Connect Form\Connect_Form\bin\Debug\Connect_Form.exe.config
+D:\Belajar\Riset\Riset\APP CM\Connect Form\Connect_Form\bin\Debug\Connect_Form.exe
+D:\Belajar\Riset\Riset\APP CM\Connect Form\Connect_Form\bin\Debug\Connect_Form.pdb
+D:\Belajar\Riset\Riset\APP CM\Connect Form\Connect_Form\bin\Debug\CircularProgressBar.dll
+D:\Belajar\Riset\Riset\APP CM\Connect Form\Connect_Form\bin\Debug\WinFormAnimation.dll
+D:\Belajar\Riset\Riset\APP CM\Connect Form\Connect_Form\bin\Debug\CircularProgressBar.xml
+D:\Belajar\Riset\Riset\APP CM\Connect Form\Connect_Form\obj\Debug\Connect_Form.csproj.AssemblyReference.cache
+D:\Belajar\Riset\Riset\APP CM\Connect Form\Connect_Form\obj\Debug\Connect_Form.csproj.SuggestedBindingRedirects.cache
+D:\Belajar\Riset\Riset\APP CM\Connect Form\Connect_Form\obj\Debug\Connect_Form.Analysis.resources
+D:\Belajar\Riset\Riset\APP CM\Connect Form\Connect_Form\obj\Debug\Connect_Form.Single_Servo.resources
+D:\Belajar\Riset\Riset\APP CM\Connect Form\Connect_Form\obj\Debug\Connect_Form.Connection.resources
+D:\Belajar\Riset\Riset\APP CM\Connect Form\Connect_Form\obj\Debug\Connect_Form.Multiple_Servo.resources
+D:\Belajar\Riset\Riset\APP CM\Connect Form\Connect_Form\obj\Debug\Connect_Form.Properties.Resources.resources
+D:\Belajar\Riset\Riset\APP CM\Connect Form\Connect_Form\obj\Debug\Connect_Form.csproj.GenerateResource.cache
+D:\Belajar\Riset\Riset\APP CM\Connect Form\Connect_Form\obj\Debug\Connect_Form.csproj.CoreCompileInputs.cache
+D:\Belajar\Riset\Riset\APP CM\Connect Form\Connect_Form\obj\Debug\Connect_Form.csproj.CopyComplete
+D:\Belajar\Riset\Riset\APP CM\Connect Form\Connect_Form\obj\Debug\Connect_Form.exe
+D:\Belajar\Riset\Riset\APP CM\Connect Form\Connect_Form\obj\Debug\Connect_Form.pdb
